@@ -407,6 +407,7 @@ nav{
    width: 99%;
    height: 70vh;
    backdrop-filter: blur(10px);
+   transition: all 1s ease-in-out;
   }
   .nav-lists a:hover{
     background-color: #91d1a7;
